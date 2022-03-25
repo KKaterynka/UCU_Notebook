@@ -1,7 +1,7 @@
 # Notebook
 Explained notebook from Python 3 Object-Oriented Programming by Dusty Phillips.
 
-![](notebook_task.jpg)
+![](photos/notebook_task.jpg)
 
 ### Create your Notebook
 
@@ -144,4 +144,4 @@ Orders will be delivered by available transport.
 
 * LogisticsSystem – main class, contains all information about order
 
-![](log_sys.jpg)
+![](photos/log_sys.jpg)
